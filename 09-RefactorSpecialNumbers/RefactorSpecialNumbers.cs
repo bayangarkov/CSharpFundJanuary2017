@@ -37,7 +37,6 @@ namespace _09_RefactorSpecialNumbers
             {
                 int sumOfNumbers = 0;
                 int digits = i;
-               
 
                 while (digits > 0)
                 {
