@@ -15,6 +15,7 @@ namespace _13_FloatOrInteger
             var toInt = Convert.ToInt32(Math.Round(inputNum));
 
             Console.WriteLine(toInt);
+
         }
     }
 }
