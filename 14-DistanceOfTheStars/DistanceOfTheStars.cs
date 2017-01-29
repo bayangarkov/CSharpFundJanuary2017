@@ -22,6 +22,7 @@ namespace _14_DistanceOfTheStars
             Console.WriteLine("{0:e2}", toCenterOfGalaxy);
             Console.WriteLine("{0:e2}", diameterOfMilkyWay);
             Console.WriteLine("{0:e2}", toTheVeryEdge);
+
         }
     }
 }
