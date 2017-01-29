@@ -23,6 +23,7 @@ namespace _06_TriplesOfLatinLetters
                         var thirdLetter = (char)(k + 'a');
 
                         Console.WriteLine($"{firstLetter}{secondLetter}{thirdLetter}");
+
                     }
                 }
             }
